@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_basic_images",
+  "info": {
+    "displayName": "Image",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "src": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "alt": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
